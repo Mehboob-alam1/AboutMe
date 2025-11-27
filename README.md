@@ -167,11 +167,11 @@ flutter:
 
 ## 📝 Personal Information
 
-- **Name**: Faiz Ahmad
-- **Profession**: Flutter Developer
-- **Email**: ulhaqfaiz27@gmail.com
+- **Name**: Mehboob Alam Lone
+- **Profession**: Software Engineer
+- **Email**: mehboobcodes@gmail.com
 - **Location**: Gilgit, Pakistan
-- **GitHub**: [https://github.com/faizu125](https://github.com/faizu125)
+- **GitHub**:https://github.com/Mehboob-alam1/(https://github.com/Mehboob-alam1/)
 
 ## 🎯 Learning Outcomes
 
@@ -208,10 +208,10 @@ This project is created for educational purposes as part of Mobile Application D
 
 ## 👨‍💻 Developer
 
-**Faiz Ahmad**
+**Mehboob Alam Lone**
 - IT Graduate with specialization in Mobile Application Development
 - Passionate about Flutter and mobile development
-- GitHub: [@faizu125](https://github.com/faizu125)
+- GitHub: [@Mehboob Alam](https://github.com/Mehboob-alam1/)
 
 ## 🙏 Acknowledgments
 
